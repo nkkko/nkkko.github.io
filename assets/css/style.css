@@ -4,7 +4,7 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Raleway&subset=latin,latin-ext");
+@import url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700&subset=latin,latin-ext");
 
 /* Basic */
 
@@ -90,7 +90,7 @@
 	}
 
 	header.major {
-		padding-bottom: 4em;
+		padding-bottom: 3em;
 	}
 
 	header h2 {
@@ -123,9 +123,9 @@
 		-o-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: none;
+		background: #ececec;
 		border: solid 1px #888888;
-		color: inherit;
+		color: #000;
 		display: block;
 		outline: 0;
 		padding: 0.75em;
@@ -417,6 +417,7 @@
 		font-size: 1.4em;
 		font-weight: 600;
 		min-width: 10em;
+		line-height: 1em;
 	}
 
 		input[type="submit"]:hover,
@@ -633,6 +634,16 @@
 		padding: 4em 0;
 		color: #fff;
 	}
+	
+		#footer section {
+			text-align: center;
+		}
+		#footer #tlemail {
+			text-align: center;
+			width:30%;
+			display: inline-block;
+			margin: 0 0 1em 0;
+		}
 
 		#footer .major h2 {
 			font-size: 2em;
@@ -649,7 +660,9 @@
 			border-top: 1px solid;
 			border-color: rgba(192, 192, 192, 0.15);
 			text-align: center;
-			color: inherit;
+			font-size: 0.9em;
+			font-weight:100;
+			color: grey;
 		}
 
 		#footer a {
