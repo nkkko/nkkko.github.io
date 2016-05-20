@@ -111,6 +111,43 @@
 	footer.major {
 		padding-top: 3em;
 	}
+	
+/* Navigation social */
+.navigation {
+	display: inline-block;
+	text-align: center;
+	float: left;
+	position: relative;
+	margin: 0;
+	list-style-type: none; }
+	
+.cover-navigation {
+		display: block;
+		position: relative;
+		float: left;
+		clear: left;
+		width: 100%; }
+		.cover-navigation .navigation {
+			display: block;
+			width: 100%; }
+			.cover-navigation .navigation li {
+				width: 80%;
+				margin-bottom: .4em; }
+		.cover-navigation.navigation--social {
+			padding-top: 5px; }
+			.cover-navigation.navigation--social .navigation li {
+				display: inline-block;
+				width: 3em; }
+.navigation--social {
+	
+	margin: 3em 0 0 0; }
+	.navigation--social a {
+		padding: 6px 8px 6px 9px; }
+		.navigation--social a .label {
+			display: none; }
+		.navigation--social a .icon {
+			display: block;
+			font-size: 1.7em; }
 
 /* Form */
 
@@ -541,36 +578,6 @@
 			#nav > ul > li > ul {
 				display: none;
 			}
-
-/* Dropotron */
-
-	.dropotron {
-		margin-top: -2px;
-		background: #3ac984;
-		border-radius: 10px;
-		color: white;
-		min-width: 12em;
-		padding: 1em 0;
-	}
-
-		.dropotron > li {
-			line-height: 2em;
-			padding: 0 1em;
-		}
-
-			.dropotron > li > a {
-				color: #FFF;
-				text-decoration: none;
-			}
-
-			.dropotron > li.active > a, .dropotron > li:hover > a {
-				color: #FFF;
-			}
-
-		.dropotron.level-0 {
-			border-radius: 0 10px 10px 10px;
-			font-size: 1em;
-		}
 
 /* Banner */
 

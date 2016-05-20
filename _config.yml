@@ -1,7 +1,14 @@
 gems:
   - jekyll-paginate
 
-name: Horizons
-description: Horizons template for Jekyll
+name: Innovantage
+description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
 paginate: 10
 title: Innovantage
+
+author:
+  name: 'Nikola Balic'
+  email: nb@innovantage.eu
+  twitter_username: innovantage_eu
+  facebook_username: innovantage_eu
+  linkedin_username:  nikola.balic
