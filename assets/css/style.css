@@ -641,7 +641,7 @@
 		#footer #tlemail {
 			text-align: center;
 			width:30%;
-			min-width: 240px;
+			min-width: 14em;
 			display: inline-block;
 			margin: 0 0 1em 0;
 		}
