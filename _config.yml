@@ -13,3 +13,10 @@ author:
   twitter_username: innovantage_eu
   facebook_username: innovantage_eu
   linkedin_username:  nikola.balic
+  
+color:
+  front: #FF4814
+  hover: #B22D07
+  back: #FF5B2D
+  compl1: #00B27F
+  compl2: #14FFBB

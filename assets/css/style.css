@@ -21,7 +21,7 @@
 	}
 
 	a {
-		color: #3ac984;
+		color: #FF5B2D;
 		text-decoration: underline;
 	}
 
@@ -174,7 +174,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #3ac984;
+			border-color: #FF5B2D;
 		}
 
 	input[type="text"],
@@ -373,7 +373,7 @@
 			width: 80px;
 			height: 80px;
 			margin-right: 1em;
-			background: #3ac984;
+			background: #FF5B2D;
 			line-height: 80px;
 			text-align: center;
 			border-radius: 10px;
@@ -442,7 +442,7 @@
 		-o-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background: #3ac984;
+		background: #FF5B2D;
 		border-radius: 40px;
 		border: 0;
 		color: white;
@@ -461,7 +461,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #32b777;
+			background-color: #FF2E14;
 		}
 
 		input[type="submit"].fit,
@@ -568,7 +568,7 @@
 			}
 
 			#nav > ul > li.active {
-				background: #3ac984;
+				background: #FF5B2D;
 			}
 
 				#nav > ul > li.active a {
