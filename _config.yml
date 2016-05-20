@@ -1,5 +1,6 @@
 gems:
   - jekyll-paginate
+  - jekyll-feed
 
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
