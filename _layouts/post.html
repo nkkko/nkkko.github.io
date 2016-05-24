@@ -7,10 +7,10 @@ layout: main
 			<section>
 				<header class="major">
 					<h2>{{ page.title }}</h2>
-					<span class="byline">{{ page.date | date_to_string }}</span>
 				</header>
-				<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
+				<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="" class="post">
 				{{ page.content }}
+				<span>{{ page.date | date_to_string }}</span>
 			</section>
 		</div>
 	</div>

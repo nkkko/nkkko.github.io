@@ -30,19 +30,12 @@ layout: default
 					<header class="major">
 					</header>
 					<div class="row no-collapse-1">
+						{% for post in site.posts offset: 0 limit: 3 %}
 						<section class="4u">
-							<a href="#" class="image feature"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt=""></a>
-							<p>Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat.</p>
+							<a href="{{ site.baseurl }}{{ post.url }}" class="image feature"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt=""></a>
+							<p>{{ post.title }}</p>
 						</section>
-						<section class="4u">
-							<a href="#" class="image feature"><img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt=""></a>
-							<p>Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis. Donec magna.</p>
-						</section>
-						<section class="4u">
-							<a href="#" class="image feature"><img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt=""></a>
-							<p>Curabitur sem urna, consequat vel, suscipit convallis sem leo, mattis placerat, nulla. Sed ac leo.</p>
-						</section>
-
+						{% endfor %}
 					</div>
 				</section>
 			</div>

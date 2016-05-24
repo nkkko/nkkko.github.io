@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Zašto?
 layout: main
 ---
 
@@ -9,18 +9,34 @@ layout: main
 			<section>
 				<div class="10u -1u">
 					<header class="major">
-						<h2>Blog</h2>
-						<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+						<h2>Zašto inovirati?</h2>
+						<span class="byline">Kako se inspirirati, ostvariti vaše ciljeve ili pronaći novi put.</span>
 					</header>
 					<ul class="style">
-						{% for post in site.posts offset: 0 limit: 4 %}
+						{% for post in paginator.posts %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
-							<img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
+							<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt=""></a>
 							{{ post.excerpt }}
 						</li>
 						{% endfor %}
 					</ul>
+					<!-- Pagination links -->
+					<div style="text-align: center;">
+					<div class="pagination">
+					  {% if paginator.previous_page %}
+					    <a href="{{ paginator.previous_page_path }}" class="previous">❮</a>
+					  {% else %}
+					    <span class="previous">❮</span>
+					  {% endif %}
+					  <span class="page_number">Stranica: {{ paginator.page }} od {{ paginator.total_pages }}</span>
+					  {% if paginator.next_page %}
+					    <a href="{{ paginator.next_page_path }}" class="next">❯</a>
+					  {% else %}
+					    <span class="next">❯</span>
+					  {% endif %}
+					</div>
+					</div>
 				</div>
 			</section>
 		</div>

@@ -4,8 +4,11 @@ gems:
 
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
-paginate: 10
+paginate: 5
+paginate_path: "/blog/page:num/"
 title: Innovantage
+
+permalink: pretty
 
 author:
   name: 'Nikola Balic'
