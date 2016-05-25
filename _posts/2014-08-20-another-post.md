@@ -1,8 +1,7 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: "Financiranje istraživanja, razvoja i inovacije u tvrtkama"
 featured: images/pic04.jpg
 layout: post
+published: true
 ---
-
-<p>Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Kako bi potaknuliistraživanje, razvojiinovacijeutvrtkamaMingo...
