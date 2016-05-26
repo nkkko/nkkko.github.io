@@ -239,6 +239,11 @@
 		margin: 0 0 2em 0;
 	}
 
+img.narrower {
+	display: block;
+	width:100%;
+}
+
 /* Icon */
 
 	.icon {

@@ -16,7 +16,7 @@ layout: main
 						{% for post in paginator.posts %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
-							<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt=""></a>
+							<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="" class="narrower"></a>
 							{{ post.excerpt }}
 						</li>
 						{% endfor %}
