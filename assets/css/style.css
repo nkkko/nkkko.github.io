@@ -652,10 +652,16 @@ img.post {
 
 		#main .sidebar .major {
 			padding-bottom: 2em;
+			margin-top:1em;
 		}
 
 			#main .sidebar .major h2 {
 				font-size: 1.8em;
+				font-weight: 300;
+				line-height: 1.2em;
+				padding-bottom: 0;
+				margin-bottom: -0.5em;
+				color:#FF5B2D;
 			}
 
 		#main .sidebar .default li {
