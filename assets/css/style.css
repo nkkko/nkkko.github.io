@@ -223,6 +223,7 @@
 			.image.fit img {
 				display: block;
 				width: 100%;
+				max-width:680px;
 			}
 
 		.image.feature {
