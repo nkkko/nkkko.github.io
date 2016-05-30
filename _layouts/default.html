@@ -55,7 +55,7 @@
 									<form action="https://tinyletter.com/innovantage" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/innovantage', 'popupwindow', 'scrollbars=yes');return true">
 										<input type="text" name="email" placeholder="upiši svoj email" id="tlemail" />
 										<input type="hidden" value="1" name="embed"/>
-										<div><input type="submit" value="Pošalji" /></div>
+										<div><input type="submit" value="Pošalji" id="newsletter"/></div>
 									</form>
 								</section>
 								<nav class="cover-navigation navigation--social">
@@ -84,7 +84,7 @@
 								    {% if site.author.linkedin_username %}
 								      <!-- LinkedIn -->
 								      <li class="navigation__item">
-									<a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" title="{{ site.author.linkedin_username }} on LinkedIn" target="_blank">
+									<a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" title="{{ site.author.linkedin_username }} on LinkedIn" target="_blank" id="linkedin">
 									  <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
 									  <span class="label">LinkedIn</span>
 									</a>
