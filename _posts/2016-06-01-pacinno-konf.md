@@ -1,7 +1,8 @@
 ---
 title: "Inoviranje kao partnerski proces"
-layout: post
 featured: images/20160601_pacinno_panel.jpg
+layout: post
+published: true
 ---
 Ulaganje u sustav inoviranja u Hrvatskoj nije polučilo mnogo rezultata, pogotovo ne onih koji bi poslužili kao katalizator za daljnji razvoj. Svjedoci smo neumoljivih statistika koje šalju direktnu, ali i vrlo jednostavnu poruku, potreban je samo neprekidan i ozbiljan rad. Rezultati tada neće izostati.	Tko odustane ispada iz igre.
 
