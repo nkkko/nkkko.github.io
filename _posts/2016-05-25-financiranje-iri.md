@@ -2,7 +2,6 @@
 title: "Financiranje istraživanja, razvoja i inovacija u tvrtkama"
 featured: images/pic04.jpg
 layout: post
-published: true
 ---
 Kroz svibanj 2016. objavljeno je gotovo milijardu i pol kuna kroz tri natječaja iz Strukturnih fondova za sufinanciranje konkurentnosti, istraživanja, razvoja i inovacija u tvrtkama. 
 
