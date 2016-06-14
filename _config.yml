@@ -17,8 +17,8 @@ author:
   skype: cheshipak
   
 color:
-  front: #FF4814
-  hover: #B22D07
-  back: #FF5B2D
-  compl1: #00B27F
-  compl2: #14FFBB
+  front: FF4814
+  hover: B22D07
+  back: FF5B2D
+  compl1: 00B27F
+  compl2: 14FFBB
