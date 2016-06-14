@@ -1,24 +1,37 @@
+---
+title: Innovantage
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 gems:
-  - jekyll-paginate
-  - jekyll-feed
-
+- jekyll-paginate
+- jekyll-feed
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
 paginate: 5
 paginate_path: "/blog/page:num/"
-title: Innovantage
-
 permalink: pretty
-
 author:
-  name: 'Nikola Balic'
+  name: Nikola Balic
   twitter_username: innovantage_eu
-  linkedin_username:  nikola.balic
+  linkedin_username: nikola.balic
   skype: cheshipak
-  
 color:
+<<<<<<< HEAD
   front: FF4814
   hover: B22D07
   back: FF5B2D
   compl1: 00B27F
   compl2: 14FFBB
+=======
+  front: 
+  hover: 
+  back: 
+  compl1: 
+  compl2: 
+>>>>>>> origin/master

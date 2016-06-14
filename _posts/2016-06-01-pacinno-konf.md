@@ -1,8 +1,10 @@
 ---
-title: "Inoviranje kao partnerski proces"
+title: Inoviranje kao partnerski proces
+date: 2016-06-01 00:00:00 Z
 featured: images/20160601_pacinno_panel.jpg
 layout: post
 ---
+
 Ulaganje u sustav inoviranja u Hrvatskoj nije polučilo mnogo rezultata, pogotovo ne onih koji bi poslužili kao katalizator za daljnji razvoj. Svjedoci smo neumoljivih statistika koje šalju direktnu, ali i vrlo jednostavnu poruku, potreban je samo neprekidan i ozbiljan rad. Rezultati tada neće izostati.	Tko odustane ispada iz igre.
 
 Danas sam imao priliku moderirati prvu panel sekciju završne PACINNO konferencije na temu "Akademsko poduzetništvo i transfer tehnologije u Jadranskoj regiji: kako potaknuti komercijalizaciju istraživačkih rezultata akademske zajednice?". Panelisti su garantirali zanimljiv diskurs: dr. sc. Danica Ramljak, prof. dr. sc. Miroslav Vrankić, Boris Golob, prof. dr. sc. Mario Vražić i prof. dr. sc. Sunčica Oberman Peterka.
