@@ -20,6 +20,10 @@
 		line-height: 1.75em;
 	}
 
+	p {
+		font-weight: 400;
+	}
+
 	a {
 		color: #FF5B2D;
 		text-decoration: underline;
@@ -240,7 +244,7 @@
 			float: right;
 			margin: 0 0 -2em 2em;
 		}
-		
+
 img.post {
 		margin: 0 0 2em 0;
 	}
