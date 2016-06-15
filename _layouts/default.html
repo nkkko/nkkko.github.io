@@ -7,27 +7,25 @@
 -->
 <html>
 	<head>
-		<title>{{ page.title }}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="{{ site.description }}" />
-		<meta name="keywords" content="{{ site.keywords }}" />
+		{% seo %}		
 		{% feed_meta %}
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />		
+		<meta name="keywords" content="{{ site.keywords }}" />
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 		<noscript>
 			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.min.css" />
 			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.min.css" />
-			<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-			<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-			<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 		</noscript>
 		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<script src="https://use.fontawesome.com/3998b1a175.js"></script>
-		
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
 		{% include font.html %}
+		{% include font_awesome.html %}
 		{% include drift_chat.html %}
 	</head>
 	<body>
@@ -68,30 +66,30 @@
 								<nav class="cover-navigation navigation--social">
 								    <ul class="navigation">
 								  
-								    {% if site.author.twitter_username %}
+								    {% if site.author.twitter %}
 								    <!-- Twitter -->
 								    <li class="navigation__item">
-									<a href="http://twitter.com/{{ site.author.twitter_username }}" title="@{{ site.author.twitter_username }} on Twitter" target="_blank">
+									<a href="http://twitter.com/{{ site.author.twitter }}" title="@{{ site.author.twitter }} on Twitter" target="_blank">
 									<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
 									<span class="label">Twitter</span>
 									</a>
 								    </li>
 								    {% endif %}
 
-								    {% if site.author.facebook_username %}
+								    {% if site.author.facebook %}
 								    <!-- Facebook -->
 								    <li class="navigation__item">
-									<a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank">
+									<a href="http://fb.me/{{ site.author.facebook }}" title="{{ site.author.facebook }} on Facebook" target="_blank">
 									<i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
 									<span class="label">Facebook</span>
 									</a>
 								    </li>
 								    {% endif %}
 
-								    {% if site.author.linkedin_username %}
+								    {% if site.author.linkedin %}
 								    <!-- LinkedIn -->
 								    <li class="navigation__item">
-									<a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" title="{{ site.author.linkedin_username }} on LinkedIn" target="_blank" id="linkedin">
+									<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="{{ site.author.linkedin }} on LinkedIn" target="_blank" id="linkedin">
 									<i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
 									<span class="label">LinkedIn</span>
 									</a>

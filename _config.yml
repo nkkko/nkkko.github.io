@@ -11,6 +11,7 @@ collections:
 gems:
 - jekyll-paginate
 - jekyll-feed
+- jekyll-seo-tag
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
 keywords: innovantage, innovacije, istrazivanje, razvoj, financiranje, poduzetnistvo, innovation, IRI, RDI, savjetovanje
@@ -19,8 +20,8 @@ paginate_path: "/blog/page:num/"
 permalink: pretty
 author:
   name: Nikola Balic
-  twitter_username: innovantage_eu
-  linkedin_username: nikola.balic
+  twitter: innovantage_eu
+  linkedin: nikola.balic
   skype: cheshipak
 colors:
   front: FF4814
