@@ -13,6 +13,7 @@ gems:
 - jekyll-feed
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
+keywords: innovantage, innovacije, istrazivanje, razvoj, financiranje, poduzetnistvo, innovation, IRI, RDI, savjetovanje
 paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: pretty

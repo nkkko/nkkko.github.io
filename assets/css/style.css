@@ -4,7 +4,6 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700&subset=latin,latin-ext");
 
 /* Basic */
 
@@ -16,7 +15,7 @@
 		color: #555555;
 		font-family: 'Raleway', sans-serif;
 		font-size: 13pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.75em;
 	}
 
@@ -34,7 +33,7 @@
 		}
 
 	strong, b {
-		font-weight: 700;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -47,7 +46,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
-		font-weight: 700;
+		font-weight: 600;
 		line-height: 1.75em;
 		margin-bottom: 1em;
 	}
@@ -101,7 +100,7 @@
 		margin: 0;
 		padding: 0;
 		font-size: 3em;
-		font-weight: 600;
+		font-weight: 100;
 	}
 
 	header .byline {
@@ -262,7 +261,7 @@ img.post {
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
 			font-style: normal;
-			font-weight: normal;
+			font-weight: 400;
 			text-transform: none !important;
 		}
 
@@ -379,7 +378,7 @@ img.post {
 
 		ul.style li h2 {
 			font-size: 2em;
-			font-weight:300;
+			font-weight: 400;
 		}
 
 		ul.style li img {
@@ -398,7 +397,7 @@ img.post {
 			margin: 0;
 			padding-bottom: 0.50em;
 			font-size: 1.1em;
-			font-weight: 700;
+			font-weight: 600;
 			color: #404040;
 		}
 
@@ -451,7 +450,7 @@ img.post {
 			}
 
 			table.default th {
-				font-weight: 700;
+				font-weight: 600;
 				padding: 0.5em 1em 0.5em 1em;
 				text-align: left;
 			}
@@ -666,7 +665,7 @@ img.post {
 
 			#main .sidebar .major h2 {
 				font-size: 1.8em;
-				font-weight: 300;
+				font-weight: 400;
 				line-height: 1.2em;
 				padding-bottom: 0;
 				margin-bottom: -0.5em;
