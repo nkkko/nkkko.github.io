@@ -9,10 +9,10 @@
 	<head>
 		{% seo %}
 		{% if page.layout == "post" %}
-			<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />	
+		<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+		<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />	
 		{% endif %}
 		{% feed_meta %}
-		<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />		
 		<meta name="keywords" content="{{ site.keywords }}" />
 		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
