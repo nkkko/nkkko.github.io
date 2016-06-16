@@ -16,7 +16,10 @@ gems:
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
 keywords: innovantage, innovacije, istrazivanje, razvoj, financiranje, poduzetnistvo, innovation, IRI, RDI, savjetovanje
-facebook_app_id: 289513794769531
+facebook: 
+  app_id: 289513794769531
+twitter:
+  username: innovantage_eu
 paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: pretty

@@ -8,7 +8,6 @@
 <html>
 	<head>
 		{% seo %}
-		<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
 		
 		{% if page.layout == "post" %}
 		<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.featured }}" />
@@ -21,7 +20,6 @@
 		{% endif %}
 
 		<meta name="twitter:card" content="summary" />		
-		<meta name="twitter:site" content="@{{ author.twitter }}">
 		<meta name="twitter:title" content="{{ page.title }}" />
 		<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 		<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
