@@ -9,10 +9,20 @@
 	<head>
 		{% seo %}
 		<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
-		<meta property="og:image" content="{{ site.baseurl }}/assets/header_fb.jpg" />	
+		
 		{% if page.layout == "post" %}
-		<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />	
+		<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />
+		<meta name="twitter:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />
+		{% else %}
+		<meta property="og:image" content="{{ site.baseurl }}/assets/header_fb.jpg" />		
+		<meta name="twitter:image" content="{{ site.baseurl }}/assets/header_fb.jpg" />	
 		{% endif %}
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="{{ page.title }}" />
+		<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 }}" />
+		<meta name="twitter:url" content="{{ page.url }}" />
+
 		{% feed_meta %}
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />		
 		<meta name="keywords" content="{{ site.keywords }}" />
