@@ -8,8 +8,9 @@
 <html>
 	<head>
 		{% seo %}
-		{% if page.layout == "post" %}
 		<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+		<meta property="og:image" content="{{ site.baseurl }}/assets/header_fb.jpg" />	
+		{% if page.layout == "post" %}
 		<meta property="og:image" content="{{ site.baseurl }}/assets/{{ page.featured }}" />	
 		{% endif %}
 		{% feed_meta %}
