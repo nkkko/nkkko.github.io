@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Što ubija dobre ideje?
 featured: images/pic05.jpg
 layout: post
