@@ -247,6 +247,10 @@ img.post {
 		margin: 0 0 2em 0;
 	}
 
+div.post img {
+	max-width: 680px;
+}
+
 
 /* Icon */
 
