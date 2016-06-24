@@ -24,7 +24,8 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 permalink: pretty
 author:
-  name: Nikola Balic
+  twitter: innovantage_eu
+  name: "Nikola Balic"
   linkedin: nikola.balic
   skype: cheshipak
 colors:
