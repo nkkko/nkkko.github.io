@@ -1,8 +1,6 @@
 ---
 published: false
 ---
-Što ubija dobre ideje?
-
 Nedavno istraživanje u kojem je agencija [**FRACTAL**](http://www.frac.tl/research/startup-failure) analizirala razloge neuspješnosti **193** propala startupa pokazalo je kako je glavni razlog tome **"promašen" poslovni model**. Na drugom mjestu je nedostatak sredstava, ali on kao i većina ostalih razloga mogu se direktno povezati na loš poslovni model. Iznimka su problemi s tehnologijom/proizvodom s udjelom od 14%.
 
 ![FRACTAL - rezultati istraživanja](http://cdn2.hubspot.net/hub/424019/hubfs/Campaigns/Visualizing_Startup_Failure/reasons-startups-fail.png?t=1466717588043&width=680&height=623)
