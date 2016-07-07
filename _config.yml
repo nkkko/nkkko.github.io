@@ -13,6 +13,7 @@ gems:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-seo-tag
+- jekyll-sitemap
 name: Innovantage
 description: partnersko stvaranje korisnih proizvoda i usluga na globalnom tržištu
 keywords: innovantage, innovacije, istrazivanje, razvoj, financiranje, poduzetnistvo, innovation, IRI, RDI, savjetovanje
