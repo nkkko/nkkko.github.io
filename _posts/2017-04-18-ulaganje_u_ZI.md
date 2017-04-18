@@ -27,3 +27,4 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Zašto je u ocijenjivanju najveći (33%) naglasak na dizajnu i zrelosti projekta, ako se potiču IRI projekti, a ne pisanje projekata?
 - Kada ćemo spalit zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?
 - Zašto svi pozivi na kraju poprime šizofrene osobnosti?
+
