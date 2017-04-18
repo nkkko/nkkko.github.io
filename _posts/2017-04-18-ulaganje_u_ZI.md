@@ -9,7 +9,7 @@ title: Poziv "Ulaganje u znanost i inovacije" upravo je na javnoj raspravi
 Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
 
 
-### Nekoliko nelogičnosti:
+### Nekoliko detalja iz teksta:
 - kao pokazatelj Prijavitelj mora predvidjeti **najmanje 5 publikacija u WoS-u**,
 - najmanje **1 patenta prijava**, osim ako u obveznoj "Strategiji upravljanja intelektualnim vlasništvom" niste predvidjeli da vaši budući rezultati nisu pogodni za patentiranje
 - "... prijavitelj mora navesti koji oblik transfera tehnologije će biti rezultat provedbe projekta. Ukoliko ih je planirano više prijavitelj je dužan za svaki oblik transfera tehnologije napraviti isto.",
@@ -17,7 +17,7 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Analiza tržišta u fazi prijave - "Dokaz da postoji potražnja za rezultatima projekta u poslovnom sektoru",
 - "OOP može sam izvršiti ocjenu projektnih prijedloga ili proces ocjenjivanja može povjeriti neovisnim procijeniteljima."
 
-## 
+
 ### Otvorena pitanja na kraju:
 - Kako uopće očekivati tržišno orijentirane IRI aktivnosti na našim znanstveno-istraživačkim organizacijama koje uglavnom (99,99%) ne funkcioniraju tržišno?
 - Pogotovo uz navedena ograničenja poput nemogučnosti uključivanja partnera **"van sustava"** i nepotrebna očekivanja u smislu izvrsnih znanstvenih publikacija kod primjenjivih istraživanja
