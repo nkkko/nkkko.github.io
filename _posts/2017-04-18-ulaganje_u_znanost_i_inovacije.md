@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 featured: images/nasa_shuttle.jpg
 layout: post
 ---
