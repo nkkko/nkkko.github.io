@@ -7,6 +7,7 @@ published: false
 
 Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
 
+
 ### Nekoliko nelogičnosti:
 - kao pokazatelj Prijavitelj mora predvidjeti **najmanje 5 publikacija u WoS-u**,
 - najmanje **1 patenta prijava**, osim ako u obveznoj "Strategiji upravljanja intelektualnim vlasništvom" niste predvidjeli da vaši budući rezultati nisu pogodni za patentiranje
@@ -14,6 +15,7 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Partneri ne mogu biti tvrtke, tj. za partnera vrijede isti uvjeti kao i za Prijavitelja da mora biti u Upisniku MZO-a to teoretski isključuje i upravo aktualne CEKOM-e,
 - Analiza tržišta u fazi prijave - "Dokaz da postoji potražnja za rezultatima projekta u poslovnom sektoru",
 - "OOP može sam izvršiti ocjenu projektnih prijedloga ili proces ocjenjivanja može povjeriti neovisnim procijeniteljima."
+
 
 ### Otvorena pitanja na kraju:
 - Kako uopće očekivati tržišno orijentirane IRI aktivnosti na našim znanstveno-istraživačkim organizacijama koje uglavnom (99,99%) ne funkcioniraju tržišno?
