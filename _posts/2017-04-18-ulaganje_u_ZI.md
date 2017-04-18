@@ -17,7 +17,7 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Analiza tržišta u fazi prijave - "Dokaz da postoji potražnja za rezultatima projekta u poslovnom sektoru",
 - "OOP može sam izvršiti ocjenu projektnih prijedloga ili proces ocjenjivanja može povjeriti neovisnim procijeniteljima."
 
-
+## 
 ### Otvorena pitanja na kraju:
 - Kako uopće očekivati tržišno orijentirane IRI aktivnosti na našim znanstveno-istraživačkim organizacijama koje uglavnom (99,99%) ne funkcioniraju tržišno?
 - Pogotovo uz navedena ograničenja poput nemogučnosti uključivanja partnera **"van sustava"** i nepotrebna očekivanja u smislu izvrsnih znanstvenih publikacija kod primjenjivih istraživanja
