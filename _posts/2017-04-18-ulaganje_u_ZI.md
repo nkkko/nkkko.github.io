@@ -28,3 +28,4 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Kada ćemo spalit zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?
 - Zašto svi pozivi na kraju poprime šizofrene osobnosti?
 
+Ovakvi pozivi predstavljaju upravo implementaciju politika, bolno je očito da onima koji ih kroje nije poznat krajnji cilj. Ne preostaje ništa drugo nego uz određene kompromise koristiti postojeće mogučnosti za kvalitetnije vlastite ciljeve.
