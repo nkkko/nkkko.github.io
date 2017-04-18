@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-featured: image/nasa_shuttle.jpg
+featured: images/nasa_shuttle.jpg
 title: Poziv "Ulaganje u znanost i inovacije" upravo je na javnoj raspravi
 ---
 **Ministarstvo znanosti i obrazovanja** (MZO) stavilo je na javnu raspravu 6. travnja [nacrt uputa za prijavitelje](https://esavjetovanja.gov.hr/Econ/MainScreen?EntityId=5121) Poziva na dostavu projektnih prijedloga **"Ulaganje u znanost i inovacije – Prvi poziv"**.
