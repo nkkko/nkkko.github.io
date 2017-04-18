@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 featured: image/nasa_shuttle.jpg
 title: Poziv "Ulaganje u znanost i inovacije" upravo je na javnoj raspravi
