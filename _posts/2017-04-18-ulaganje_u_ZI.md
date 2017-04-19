@@ -4,8 +4,6 @@ layout: post
 featured: images/nasa_shuttle.jpg
 title: 128 milijuna kuna za "Ulaganje u znanost i inovacije"
 ---
-## Kada ćemo prokazati zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?
-
 **Ministarstvo znanosti i obrazovanja** (MZO) stavilo je na javnu raspravu 6. travnja [nacrt uputa za prijavitelje](https://esavjetovanja.gov.hr/Econ/MainScreen?EntityId=5121) Poziva na dostavu projektnih prijedloga **"Ulaganje u znanost i inovacije – Prvi poziv"**.
 
 Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
@@ -26,7 +24,7 @@ Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI a
 - Opet primjer neintegriranog promišljanja koji na ovaj način isključuje upravo aktualne CEKOM-e, a koji su očito potpuno paralelna priča.
 - Kada očekivati kvalitetni i transparentni sustav neovisnih procijenitelja? Nemam ja ništa protiv Mate i Mislava osobno, da se razumijemo...
 - Zašto je u ocijenjivanju najveći (33%) naglasak na dizajnu i zrelosti projekta, ako se potiču IRI projekti, a ne pisanje projekata?
-- Kada ćemo prokazati zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?
+- **Kada ćemo prokazati zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?**
 - Zašto svi pozivi na kraju poprime šizofrene osobnosti?
 
 Ovakvi pozivi u suštini predstavljaju implementaciju politika, bolno je očito da onima koji ih kroje nije poznat krajnji cilj intervencije. Ne preostaje ništa drugo nego pristati na određene kompromise i koristiti postojeće mogučnosti, kakve god one bile, za postizanje vlastitih ciljeva.
