@@ -2,7 +2,7 @@
 published: true
 layout: post
 featured: images/nasa_shuttle.jpg
-title: Poziv "Ulaganje u znanost i inovacije" upravo je na javnoj raspravi
+title: 128 milijuna kuna za "Ulaganje u znanost i inovacije"
 ---
 ## Kada ćemo prokazati zlatno tele da inovacije nastaju iza zatvorenih vrata institucija?
 
