@@ -435,6 +435,10 @@ div.post img {
 				border-top: none;
 			}
 
+        .post ul {
+        	list-style:disc;
+        }
+
 /* Tables */
 
 	table {
