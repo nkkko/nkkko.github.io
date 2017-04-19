@@ -4,9 +4,7 @@ layout: post
 featured: images/nasa_shuttle.jpg
 title: 128 milijuna kuna za "Ulaganje u znanost i inovacije"
 ---
-**Ministarstvo znanosti i obrazovanja** (MZO) stavilo je na javnu raspravu 6. travnja [nacrt uputa za prijavitelje](https://esavjetovanja.gov.hr/Econ/MainScreen?EntityId=5121) Poziva na dostavu projektnih prijedloga **"Ulaganje u znanost i inovacije – Prvi poziv"**.
-
-Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
+**Ministarstvo znanosti i obrazovanja** (MZO) stavilo je na javnu raspravu 6. travnja [nacrt uputa za prijavitelje](https://esavjetovanja.gov.hr/Econ/MainScreen?EntityId=5121) Poziva na dostavu projektnih prijedloga **"Ulaganje u znanost i inovacije – Prvi poziv"**. Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
 
 ### Nekoliko detalja iz teksta:
 - kao pokazatelj Prijavitelj mora predvidjeti **najmanje 5 publikacija u WoS-u**,
