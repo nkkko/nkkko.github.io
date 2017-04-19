@@ -7,6 +7,7 @@ title: 128 milijuna kuna za "Ulaganje u znanost i inovacije"
 **Ministarstvo znanosti i obrazovanja** (MZO) stavilo je na javnu raspravu 6. travnja [nacrt uputa za prijavitelje](https://esavjetovanja.gov.hr/Econ/MainScreen?EntityId=5121) Poziva na dostavu projektnih prijedloga **"Ulaganje u znanost i inovacije – Prvi poziv"**. Kako piše u pozivu, svrha (cilj) je "Povećanje **tržišno orijentiranih IRI aktivnosti** podupiranjem suradničkih projekata znanstvenih organizacija i diseminacije rezultata  u poslovni sektor u cilju rješavanja tržišnih nedostataka nastalih zbog nedostatnog ulaganja u istraživanje i razvoj te **podizanja razine visoko kvalitetnih istraživačko-razvojno–inovacijskih aktivnosti** u Republici Hrvatskoj". Ukupna alokacija je 128 milijuna kuna, a najviši iznos projekta je 6 milijuna kuna.
 
 ### Nekoliko detalja iz teksta:
+- Prijavitelji su isključivo organizacije iz [Upisnika MZO](http://public.mzos.hr/Default.aspx?art=5489&sec=2167)
 - kao pokazatelj Prijavitelj mora predvidjeti **najmanje 5 publikacija u WoS-u**,
 - najmanje **1 patenta prijava**, osim ako u obveznoj "Strategiji upravljanja intelektualnim vlasništvom" niste predvidjeli da vaši budući rezultati nisu pogodni za patentiranje
 - Partneri ne mogu biti tvrtke, tj. za partnera vrijede isti uvjeti kao i za Prijavitelja da mora biti u Upisniku MZO-a,
