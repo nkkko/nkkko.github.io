@@ -18,7 +18,7 @@ title: 128 milijuna kuna za "Ulaganje u znanost i inovacije"
 ### Otvorena pitanja bez posebnog reda:
 - Kako uopće očekivati tržišno orijentirane IRI aktivnosti na našim znanstveno-istraživačkim organizacijama koje uglavnom (99,99%) ne funkcioniraju tržišno? Pogotovo uz navedena ograničenja poput nemogučnosti uključivanja partnera **"van sustava"** i nepotrebna očekivanja u smislu izvrsnih znanstvenih publikacija kod primjenjivih istraživanja.
 - Nadam se da je svima jasno da **patentnih prijava možete imati koliko vam srce želi** i da to zapravo nije nikakav indikator? Uostalom mi Hrvati smo izvrsni u patentiranju tople vode, kotača i razno-raznih pametnih stvari.
-- U trenutnoj situaciji **devastiranog inovacijskog sustava** koja I&R institucija je u stanju pripremiti analizu tržišta (kojim kapacitetima?) te Strategiju upravljanja intelektualnim vlasništvom? 
+- U trenutnoj situaciji **devastiranog inovacijskog sustava** koja I&R institucija je u stanju pripremiti analizu tržišta (kojim kapacitetima?) te Strategiju upravljanja intelektualnim vlasništvom? MZO čak nije ni predvidjelo ulogu UTT-ova u pozivu, toliko o uspostavljanju sustava.
 - Opet **primjer neintegriranog promišljanja** koji na ovaj način isključuje upravo aktualne CEKOM-e, a koji su očito potpuno paralelna priča.
 - Kada očekivati kvalitetni i **transparentni sustav neovisnih procijenitelja**? Nemam ja ništa protiv Mate i Mislava osobno, da se razumijemo...
 - Zašto je u ocijenjivanju najveći (33%) naglasak na dizajnu i zrelosti projekta, ako se potiču IRI projekti, a ne pisanje projekata?
