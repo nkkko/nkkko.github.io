@@ -16,7 +16,7 @@
   a{
     &:hover{
       svg{
-        @include themed(color, #22c55e, #86efac);
+        @include themed(color, #bb2649, #f9d2d7);
       }
     }
   }
@@ -27,7 +27,7 @@
 }
 
 .link{
-  @include themed(color, #15803d, #86efac);
+  @include themed(color, #bb2649, #f9d2d7);
 }
 
 .avatar{
@@ -48,6 +48,6 @@
 
   button{
     @include themed(color, $dark-900, $dark-900);
-    @include themed(background-color, $green-400, $green-300);
+    @include themed(background-color, $maroon-flush-400, $maroon-flush-300);
   }
 }
