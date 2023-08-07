@@ -7,7 +7,7 @@ description   : >-        # this means to ignore newlines until "baseurl:"
   Experienced growth strategist and innovation enthusiast, helping startups thrive and businesses embrace digital transformation. Let's boost development velocity together!
 baseurl       : ""        # the subpath of your site, e.g. /blog
 url           : "https://nkkko.github.io"       # the base hostname & protocol for your site, e.g. http://example.com
-keywords      : niko, nkko, nkkko, growth
+keywords      : niko, nkko, nkkko, growth, pulent
 theme-color   : "#BB2649"       # Used for browser theme-color meta tag
 
 gravatar      : b5219d812363aace4a38e34e14b8fdbe     # Gravatar md5 hash
