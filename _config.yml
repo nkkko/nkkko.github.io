@@ -18,16 +18,16 @@ branding      : false                                 # Your name will be replac
 ### Author Info ###
 author:
   name              : Nikola Balić
-  twitter           : nibalic
   github            : nkkko
   linkedin          : nikolabalic
+  twitter           : nibalic
+  bluesky          : balic.bsky.social
   hackernoon        : nkko
   hackernews        : nkko
   researchgate      : Nikola_Balic
   orcid             : 0000-0002-4405-1470
   reddit           : vivaciouslystained
-  bluesky          : balic.bsky.social
-  youtube          : daytonaio  
+  youtube          : daytonaio
 #  goodreads         : nibalic
 #  buy me a coffee   : nibalic
 #  youtube           : nibalic

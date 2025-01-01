@@ -116,12 +116,13 @@ body {
     align-items: center;
     justify-content: space-between;
 
-    img{
-        height: 2rem;
+    img {
+        height: 32px;
+        width: 32px;
         margin-right: .5rem;
         display: flex;
         align-items: center;
-    }
+      }
 
     .arrow{
         color: $dark-500;
@@ -154,6 +155,12 @@ footer{
     text-align: center;
 }
 
+.footer-emoji {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 2px;
+}
+
 .branding{
     svg{
         width: auto;
@@ -162,7 +169,7 @@ footer{
         @media screen and (max-width: 768px) {
             width: 120px;
         }
-            
+
         }
     path{
       fill: $dark-700;
