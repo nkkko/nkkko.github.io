@@ -3,6 +3,7 @@
 Based on Jekyll and this theme: [https://github.com/Vyshnav2255/links](https://github.com/Vyshnav2255/links)
 
 ~~~
+bundle update
 bundle install
 bundle exec jekyll serve
 ~~~

@@ -3,11 +3,11 @@ role          : Head of Growth        # Add your role/position
 company       : Daytona               # Add your company name
 
 
-description   : >-        # this means to ignore newlines until "baseurl:"
-  Experienced growth strategist and innovation enthusiast, helping startups thrive and businesses embrace digital transformation. Let's boost development velocity together!
+description   : >-
+  🚀 Driving growth @daytonaio, aspiring ∞x dev, university lecturer, PhD candidate, pronoia cultist 🔮, forever falling down the rabbit holes 🐇
 baseurl       : ""        # the subpath of your site, e.g. /blog
-url           : "https://nkkko.github.io"       # the base hostname & protocol for your site, e.g. http://example.com
-keywords      : niko, nkko, nkkko, growth, pulent
+url           : "https://nkkko.com"       # the base hostname & protocol for your site, e.g. http://example.com
+keywords      : niko, nkko, nkkko, growth, pulent, nikolabalic, nikola balic
 theme-color   : "#BB2649"       # Used for browser theme-color meta tag
 
 gravatar      : b5219d812363aace4a38e34e14b8fdbe     # Gravatar md5 hash
@@ -25,6 +25,9 @@ author:
   hackernews        : nkko
   researchgate      : Nikola_Balic
   orcid             : 0000-0002-4405-1470
+  reddit           : vivaciouslystained
+  bluesky          : balic.bsky.social
+  youtube          : daytonaio  
 #  goodreads         : nibalic
 #  buy me a coffee   : nibalic
 #  youtube           : nibalic
